@@ -15,7 +15,7 @@
 ##
 
   <p align="center">
-   Main skills:
+   Languages:
   </p>
   
   <div align="center" valign="top">
