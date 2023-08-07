@@ -18,13 +18,24 @@
    Main skills:
   </p>
   
-  <div align="center" valign="top"><br>
+  <div align="center" valign="top">
     <img align="center" alt="Python" height="35" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
     <img align="center" alt="cplusplus" height="35" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg">
-    <img align="center" alt="Arduino" height="35" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/arduino/arduino-original.svg">
     <img align="center" alt="Matlab" height="35" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/matlab/matlab-original.svg">
-  </div>
+  </div><br>
+
+ <p align="center"><br>
+   Tools:
+  </p>
   
+  <div align="center" valign="top">
+    <img align="center" alt="pycharm" height="35" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/pycharm/pycharm-original.svg">
+    <img align="center" alt="Arduino" height="35" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/arduino/arduino-original.svg">
+    <img align="center" alt="Canva" height="35" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/canva/canva-original.svg">
+    <img align="center" alt="windows8" height="35" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/windows8/windows8-original.svg">
+    
+  </div>
+
 ##
 
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=00bfbf&height=120&section=footer"/>
