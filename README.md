@@ -1,4 +1,4 @@
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=00bfbf&height=130&section=header&text=🧑‍💻&fontSize=30&fontColor=fff&animation=twinkling&fontAlignY=25"/> 
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=00bfbf&height=120&section=header&text=&fontSize=23&fontColor=fff&animation=twinkling&fontAlignY=25"/> 
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=00bfbf&size=35&center=true&vCenter=true&width=1000&lines=Hello+world,+be+Welcome!;I'm+Lennon+Rangel,+I'm+from+Brazil;I+study+Software+Engineering+at+UniAcademia+:%29)](https://git.io/typing-svg)
 
@@ -15,7 +15,7 @@
 ##
 
   <p align="center">
-   Main skills
+   Main skills:
   </p>
   
   <div align="center" valign="top"><br>
@@ -24,9 +24,7 @@
     <img align="center" alt="Arduino" height="35" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/arduino/arduino-original.svg">
     <img align="center" alt="Matlab" height="35" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/matlab/matlab-original.svg">
   </div>
-
+  
 ##
-
-![Snake animation](https://github.com/lennonrangel/lennonrangel/blob/output/github-contribution-grid-snake.svg)
 
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=00bfbf&height=120&section=footer"/>
