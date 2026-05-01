@@ -10,7 +10,7 @@
 <br/>
 
 <div align="center">
-  <img height="200px" src="https://streak-stats.demolab.com/?user=lennonrangel&theme=whatsapp-dark&hide_border=null&stroke=00bfbf&ring=00bfbf&fire=00bfbf&currStreakLabel=00bfbf&background=0d1117&dates=c9d1d9&sideLabels=c9d1d9&sideNums=00bfbf&currStreakNum=00bfbf"/>&#160;
+  <img height="180px" src="https://streak-stats.demolab.com/?user=lennonrangel&theme=whatsapp-dark&hide_border=null&stroke=00bfbf&ring=00bfbf&fire=00bfbf&currStreakLabel=00bfbf&background=0d1117&dates=c9d1d9&sideLabels=c9d1d9&sideNums=00bfbf&currStreakNum=00bfbf"/>&#160;
   <img width="30.42%" height="200px" src="https://github-readme-stats-salesp07.vercel.app/api/top-langs/?username=lennonrangel&layout=compact&hide_border=false&border_color=1a2731&title_color=00bfbf&text_color=c9d1d9&bg_color=0d1117&langs_count=8"/>
 </div>
 
